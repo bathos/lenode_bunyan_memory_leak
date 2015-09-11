@@ -1,0 +1,16 @@
+{
+  "name": "lenode_bunyan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.5.1",
+    "heapdump": "^0.3.7",
+    "le_node": "^1.1.0"
+  }
+}
